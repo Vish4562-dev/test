@@ -4,4 +4,4 @@
     Content-Security-Policy = "[...] script-src https://netlify-rum.netlify.app"
 
 [[plugins]]
-package = "node_modules/.bin/sentry-netlify-build-plugin"
+package = "netlify-plugin-one"
